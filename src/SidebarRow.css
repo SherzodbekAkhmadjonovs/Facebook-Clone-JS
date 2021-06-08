@@ -1,0 +1,23 @@
+.ic{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.sidebarRow{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    cursor: pointer;
+}
+.ic:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.sidebarRow h4{
+    font-weight: 600;
+}
+.ic svg{
+    font-size: xx-large;
+    color: #2e81f4;
+}
